@@ -10,10 +10,8 @@ body{
 	background-color: #f8f8f8;
 	display: flex;
 	flex-direction:column;
-	
-	
-	margin: 0px;
-	border-top: 40px solid white;
+	margin: 10px;
+	border-top: 20px solid white;
 }
 button{
 	width: 100% ;
@@ -32,15 +30,16 @@ img{
 	
 }
 .i1{
+	background-color:rgba(0, 0, 0, 0);
 	display: flex;
 	justify-content: center;
 }
-h1{
+h2{
 margin: 0px;
 	padding: 5px;
 	
 }
-h3{
+p{
 	margin: 0px;
 	padding: 5px;
 	color: #777777;
