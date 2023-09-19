@@ -13,10 +13,11 @@ body{
 	margin: 10px;
 	border-top: 20px solid white;
 }
-button{
-	width: 100% ;
+.butt{
+	width: 90% ;
 	padding: 10px;
 	margin-bottom: 10px;
+	margin-left:4%;
 	background-color:#2ecc71;
 	color: white;
 	border-radius: 10px;
@@ -30,7 +31,7 @@ img{
 	
 }
 .i1{
-	background-color:rgba(0, 0, 0, 0);
+	
 	display: flex;
 	justify-content: center;
 }
